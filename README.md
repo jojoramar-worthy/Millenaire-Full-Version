@@ -259,4 +259,4 @@ This repository serves as the official landing page for Millènaire. The softwar
 **Get the most recent version of Millènaire today!**
 
 ---
-**Last updated:** 2026-10-15 12:21:03 UTC
+**Last updated:** 2026-10-15 17:31:56 UTC
